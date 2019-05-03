@@ -92,4 +92,11 @@ $_SESSION['item'][9]['theme'] = 'cats';
 $_SESSION['item'][9]['filename'] = 'data/images/cats/christchurch.jpg';
 $_SESSION['item'][9]['rating'] = 0;
 
+$_SESSION['item'][10]['name'] = 'clinica';
+$_SESSION['item'][10]['rank'] = 11;
+$_SESSION['item'][10]['caption'] = 'Clinica Cat';
+$_SESSION['item'][10]['trivia'] = "<p>My name is Clinica, I was helping other pets. </p>";
+$_SESSION['item'][10]['theme'] = 'cats';
+$_SESSION['item'][10]['filename'] = 'data/images/cats/clinica.jpg';
+$_SESSION['item'][10]['rating'] = 1;
 ?>
